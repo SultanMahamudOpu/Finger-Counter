@@ -1,4 +1,4 @@
-###🚀 AI-Powered Finger Counter Using Python! 🤖✋
+# 🚀 AI-Powered Finger Counter Using Python! 🤖✋
 
 Excited to share my latest project – a real-time AI-powered finger counter that accurately detects and counts fingers using Python, OpenCV, and Mediapipe! 🎉
 
